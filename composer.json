@@ -21,7 +21,7 @@
     "php": ">=8.0",
     "symfony/property-access": "^6.0",
     "tangwei/swagger-ui": "^4.6",
-    "wayhood/hyperf-dto": "2.0.x-dev"
+    "wayhood/hyperf-dto": "^v3.0.0"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.0",
